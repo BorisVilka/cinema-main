@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955385473251",
+    "project_id": "my-app-be9a5",
+    "storage_bucket": "my-app-be9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955385473251:android:7111999520d02563c17dd6",
+        "android_client_info": {
+          "package_name": "com.cinema.limma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955385473251-11v1e0uiaillq9625ptmkhl9irnmpfa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFNLifGZXvyScbsMCKM5oefRNqI3ERk2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955385473251-11v1e0uiaillq9625ptmkhl9irnmpfa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
