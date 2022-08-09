@@ -138,14 +138,6 @@ public class MyApplication extends Application implements Application.ActivityLi
         MultiDex.install(this);
     }
 
-    public void setActivity(Activity activity) {
-        this.activity = activity;
-    }
-
-    public Activity getActivity() {
-        return activity;
-    }
-
     public static synchronized MyApplication getInstance() {
         return mInstance;
     }
